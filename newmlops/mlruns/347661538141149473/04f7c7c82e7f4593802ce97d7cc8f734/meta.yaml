@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/04f7c7c82e7f4593802ce97d7cc8f734/artifacts
+deleted_time: 1711560921827
+end_time: 1711557693173
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 04f7c7c82e7f4593802ce97d7cc8f734
+run_name: bouncy-shrew-581
+run_uuid: 04f7c7c82e7f4593802ce97d7cc8f734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557664098
+status: 3
+tags: []
+user_id: SIVA

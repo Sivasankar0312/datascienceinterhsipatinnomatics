@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/f4b264fe33b842279636977107678aea/artifacts
+deleted_time: 1711560921659
+end_time: 1711557856863
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: f4b264fe33b842279636977107678aea
+run_name: classy-sheep-159
+run_uuid: f4b264fe33b842279636977107678aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557825900
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/6c77d9022a2e48ca850de6be9530abb1/artifacts
+deleted_time: 1711560921462
+end_time: 1711558075846
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 6c77d9022a2e48ca850de6be9530abb1
+run_name: masked-hog-682
+run_uuid: 6c77d9022a2e48ca850de6be9530abb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558044786
+status: 3
+tags: []
+user_id: SIVA

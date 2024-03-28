@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/07bf493caf6a4e6d8d1624d59d6198b6/artifacts
+deleted_time: 1711560921510
+end_time: 1711557877118
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 07bf493caf6a4e6d8d1624d59d6198b6
+run_name: capable-turtle-402
+run_uuid: 07bf493caf6a4e6d8d1624d59d6198b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557857860
+status: 3
+tags: []
+user_id: SIVA

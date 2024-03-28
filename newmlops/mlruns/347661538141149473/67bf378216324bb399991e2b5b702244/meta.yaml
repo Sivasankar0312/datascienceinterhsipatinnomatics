@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/67bf378216324bb399991e2b5b702244/artifacts
+deleted_time: 1711565009590
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 67bf378216324bb399991e2b5b702244
+run_name: worried-hound-57
+run_uuid: 67bf378216324bb399991e2b5b702244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

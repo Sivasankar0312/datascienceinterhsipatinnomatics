@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/6083f490d8a9487c98ff0c011ef34df1/artifacts
+deleted_time: 1711565009489
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 6083f490d8a9487c98ff0c011ef34df1
+run_name: redolent-finch-604
+run_uuid: 6083f490d8a9487c98ff0c011ef34df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

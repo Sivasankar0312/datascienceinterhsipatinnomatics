@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/13e97e7b2a8242e49252ec094648587c/artifacts
+deleted_time: 1711560920971
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 13e97e7b2a8242e49252ec094648587c
+run_name: indecisive-shrike-1
+run_uuid: 13e97e7b2a8242e49252ec094648587c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

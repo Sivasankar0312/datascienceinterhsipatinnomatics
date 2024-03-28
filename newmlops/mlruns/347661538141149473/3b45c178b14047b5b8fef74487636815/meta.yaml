@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/3b45c178b14047b5b8fef74487636815/artifacts
+deleted_time: 1711560960372
+end_time: 1711557430301
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 3b45c178b14047b5b8fef74487636815
+run_name: industrious-deer-330
+run_uuid: 3b45c178b14047b5b8fef74487636815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557411540
+status: 3
+tags: []
+user_id: SIVA

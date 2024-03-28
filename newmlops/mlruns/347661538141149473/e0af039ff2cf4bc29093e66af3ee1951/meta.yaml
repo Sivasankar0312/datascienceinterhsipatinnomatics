@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/e0af039ff2cf4bc29093e66af3ee1951/artifacts
+deleted_time: 1711560961043
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: e0af039ff2cf4bc29093e66af3ee1951
+run_name: gifted-fawn-307
+run_uuid: e0af039ff2cf4bc29093e66af3ee1951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

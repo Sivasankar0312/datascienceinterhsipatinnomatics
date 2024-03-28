@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/e5d0720baba948e68c71f325eb5fbaaf/artifacts
+deleted_time: 1711560921285
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: e5d0720baba948e68c71f325eb5fbaaf
+run_name: adventurous-crab-329
+run_uuid: e5d0720baba948e68c71f325eb5fbaaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

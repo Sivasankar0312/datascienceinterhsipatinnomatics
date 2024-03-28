@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/939d87d827ee4a18a2bf8599c2eb87d8/artifacts
+deleted_time: 1711560921159
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 939d87d827ee4a18a2bf8599c2eb87d8
+run_name: sneaky-shrike-812
+run_uuid: 939d87d827ee4a18a2bf8599c2eb87d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

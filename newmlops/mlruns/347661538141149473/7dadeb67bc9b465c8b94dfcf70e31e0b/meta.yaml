@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/7dadeb67bc9b465c8b94dfcf70e31e0b/artifacts
+deleted_time: 1711560960490
+end_time: 1711557410650
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 7dadeb67bc9b465c8b94dfcf70e31e0b
+run_name: wise-dog-431
+run_uuid: 7dadeb67bc9b465c8b94dfcf70e31e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557386868
+status: 3
+tags: []
+user_id: SIVA

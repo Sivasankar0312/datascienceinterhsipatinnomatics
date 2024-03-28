@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/1d431c51a64048c89f2613aceb7e9bf1/artifacts
+deleted_time: 1711560960328
+end_time: 1711557539145
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 1d431c51a64048c89f2613aceb7e9bf1
+run_name: rare-swan-847
+run_uuid: 1d431c51a64048c89f2613aceb7e9bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557512345
+status: 3
+tags: []
+user_id: SIVA

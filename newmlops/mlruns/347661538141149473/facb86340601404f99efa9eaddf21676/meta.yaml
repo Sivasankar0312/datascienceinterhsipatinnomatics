@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/facb86340601404f99efa9eaddf21676/artifacts
+deleted_time: 1711560921317
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: facb86340601404f99efa9eaddf21676
+run_name: placid-fox-478
+run_uuid: facb86340601404f99efa9eaddf21676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

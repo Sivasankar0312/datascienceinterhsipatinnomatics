@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/e5112f1b43ea4f18b4a3c9263cf93d0e/artifacts
+deleted_time: 1711560921829
+end_time: 1711557714546
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: e5112f1b43ea4f18b4a3c9263cf93d0e
+run_name: colorful-squid-1
+run_uuid: e5112f1b43ea4f18b4a3c9263cf93d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557694177
+status: 3
+tags: []
+user_id: SIVA

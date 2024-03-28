@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/c0571a83831449a69b7fb3cec7106f5a/artifacts
+deleted_time: 1711560921266
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: c0571a83831449a69b7fb3cec7106f5a
+run_name: industrious-koi-608
+run_uuid: c0571a83831449a69b7fb3cec7106f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

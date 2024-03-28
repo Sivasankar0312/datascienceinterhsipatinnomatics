@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/ad6087e0aed54e1b9e2edf404adb3ab0/artifacts
+deleted_time: 1711560960948
+end_time: 1711556718025
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: ad6087e0aed54e1b9e2edf404adb3ab0
+run_name: delicate-sheep-543
+run_uuid: ad6087e0aed54e1b9e2edf404adb3ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

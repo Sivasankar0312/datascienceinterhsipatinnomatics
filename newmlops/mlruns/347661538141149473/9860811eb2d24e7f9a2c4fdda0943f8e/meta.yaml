@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/9860811eb2d24e7f9a2c4fdda0943f8e/artifacts
+deleted_time: 1711560921167
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 9860811eb2d24e7f9a2c4fdda0943f8e
+run_name: tasteful-grouse-0
+run_uuid: 9860811eb2d24e7f9a2c4fdda0943f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

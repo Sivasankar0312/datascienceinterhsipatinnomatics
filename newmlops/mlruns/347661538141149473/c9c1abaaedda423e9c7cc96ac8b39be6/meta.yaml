@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/c9c1abaaedda423e9c7cc96ac8b39be6/artifacts
+deleted_time: 1711560960578
+end_time: 1711557311890
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: c9c1abaaedda423e9c7cc96ac8b39be6
+run_name: delicate-foal-132
+run_uuid: c9c1abaaedda423e9c7cc96ac8b39be6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557286521
+status: 3
+tags: []
+user_id: SIVA

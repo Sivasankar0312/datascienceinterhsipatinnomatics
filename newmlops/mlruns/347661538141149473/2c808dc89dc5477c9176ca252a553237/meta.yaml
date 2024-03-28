@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/2c808dc89dc5477c9176ca252a553237/artifacts
+deleted_time: 1711560921462
+end_time: 1711558075846
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 2c808dc89dc5477c9176ca252a553237
+run_name: upset-sponge-809
+run_uuid: 2c808dc89dc5477c9176ca252a553237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558044786
+status: 3
+tags: []
+user_id: SIVA

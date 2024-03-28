@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/0cfa2a4483d94a87b27d4b1f4ef2868f/artifacts
+deleted_time: 1711560960685
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 0cfa2a4483d94a87b27d4b1f4ef2868f
+run_name: abrasive-ant-930
+run_uuid: 0cfa2a4483d94a87b27d4b1f4ef2868f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

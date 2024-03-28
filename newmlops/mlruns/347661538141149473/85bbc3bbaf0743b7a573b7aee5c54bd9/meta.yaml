@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/85bbc3bbaf0743b7a573b7aee5c54bd9/artifacts
+deleted_time: 1711560960846
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 85bbc3bbaf0743b7a573b7aee5c54bd9
+run_name: caring-fly-75
+run_uuid: 85bbc3bbaf0743b7a573b7aee5c54bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

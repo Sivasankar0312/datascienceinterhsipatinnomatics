@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/43d098eb32584bd18300d1a80096fe7d/artifacts
+end_time: 1711560523141
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: active
+run_id: 43d098eb32584bd18300d1a80096fe7d
+run_name: crawling-ram-753
+run_uuid: 43d098eb32584bd18300d1a80096fe7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711560513716
+status: 3
+tags: []
+user_id: SIVA

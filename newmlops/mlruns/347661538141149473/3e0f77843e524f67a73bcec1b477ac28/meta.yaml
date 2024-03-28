@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/3e0f77843e524f67a73bcec1b477ac28/artifacts
+deleted_time: 1711560921405
+end_time: 1711558100758
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 3e0f77843e524f67a73bcec1b477ac28
+run_name: dapper-conch-76
+run_uuid: 3e0f77843e524f67a73bcec1b477ac28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558078323
+status: 3
+tags: []
+user_id: SIVA

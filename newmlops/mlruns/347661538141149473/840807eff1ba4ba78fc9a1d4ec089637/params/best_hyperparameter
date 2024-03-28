@@ -1,0 +1,1 @@
+{'clf': DecisionTreeClassifier(max_depth=20), 'clf__max_depth': 20, 'tfidf__ngram_range': (1, 2)}

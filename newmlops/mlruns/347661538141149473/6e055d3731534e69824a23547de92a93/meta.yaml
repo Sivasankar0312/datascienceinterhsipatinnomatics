@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/6e055d3731534e69824a23547de92a93/artifacts
+deleted_time: 1711560921101
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 6e055d3731534e69824a23547de92a93
+run_name: wistful-newt-101
+run_uuid: 6e055d3731534e69824a23547de92a93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

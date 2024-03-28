@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/7fabf0074bc04d4d82db4c09f906fba9/artifacts
+deleted_time: 1711560921113
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 7fabf0074bc04d4d82db4c09f906fba9
+run_name: respected-skink-784
+run_uuid: 7fabf0074bc04d4d82db4c09f906fba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

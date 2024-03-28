@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/b5ca98a894de449ab53c50748ba17d97/artifacts
+deleted_time: 1711560960524
+end_time: 1711557410650
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: b5ca98a894de449ab53c50748ba17d97
+run_name: melodic-asp-621
+run_uuid: b5ca98a894de449ab53c50748ba17d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557386868
+status: 3
+tags: []
+user_id: SIVA

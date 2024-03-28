@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/cbcb0c45d3884a87baa61b8b71f2b425/artifacts
+deleted_time: 1711565009918
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: cbcb0c45d3884a87baa61b8b71f2b425
+run_name: spiffy-frog-45
+run_uuid: cbcb0c45d3884a87baa61b8b71f2b425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

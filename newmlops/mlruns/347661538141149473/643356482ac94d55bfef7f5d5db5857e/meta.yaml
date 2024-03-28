@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/643356482ac94d55bfef7f5d5db5857e/artifacts
+deleted_time: 1711560921591
+end_time: 1711557877118
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 643356482ac94d55bfef7f5d5db5857e
+run_name: sneaky-ray-400
+run_uuid: 643356482ac94d55bfef7f5d5db5857e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557857860
+status: 3
+tags: []
+user_id: SIVA

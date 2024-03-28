@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/569091407e7f4bcfb0292d9f4f26c399/artifacts
+deleted_time: 1711560921068
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 569091407e7f4bcfb0292d9f4f26c399
+run_name: defiant-horse-720
+run_uuid: 569091407e7f4bcfb0292d9f4f26c399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/a00eb6bb2e824011839e5766ef7cac3a/artifacts
+deleted_time: 1711565009747
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: a00eb6bb2e824011839e5766ef7cac3a
+run_name: bustling-sponge-124
+run_uuid: a00eb6bb2e824011839e5766ef7cac3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

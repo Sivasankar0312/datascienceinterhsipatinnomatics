@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/639420b63b8c48afa28cc03b6cc00041/artifacts
+deleted_time: 1711560960547
+end_time: 1711557311890
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 639420b63b8c48afa28cc03b6cc00041
+run_name: stylish-bird-311
+run_uuid: 639420b63b8c48afa28cc03b6cc00041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557286521
+status: 3
+tags: []
+user_id: SIVA

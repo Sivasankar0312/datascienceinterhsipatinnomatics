@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/3642c91fb2044d758ef5d32afbf31a45/artifacts
+deleted_time: 1711560921568
+end_time: null
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 3642c91fb2044d758ef5d32afbf31a45
+run_name: sedate-snipe-643
+run_uuid: 3642c91fb2044d758ef5d32afbf31a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557857860
+status: 1
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/1fa96a4d0b9349c193f10c60f8159a3b/artifacts
+deleted_time: 1711560921348
+end_time: 1711558100758
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 1fa96a4d0b9349c193f10c60f8159a3b
+run_name: treasured-stag-286
+run_uuid: 1fa96a4d0b9349c193f10c60f8159a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558078323
+status: 3
+tags: []
+user_id: SIVA

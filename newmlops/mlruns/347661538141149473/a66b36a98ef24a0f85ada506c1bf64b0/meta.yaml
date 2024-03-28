@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/a66b36a98ef24a0f85ada506c1bf64b0/artifacts
+deleted_time: 1711565009688
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: a66b36a98ef24a0f85ada506c1bf64b0
+run_name: lyrical-foal-220
+run_uuid: a66b36a98ef24a0f85ada506c1bf64b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

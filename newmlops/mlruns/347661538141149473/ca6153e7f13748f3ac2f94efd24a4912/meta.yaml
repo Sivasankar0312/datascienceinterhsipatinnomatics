@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/ca6153e7f13748f3ac2f94efd24a4912/artifacts
+deleted_time: 1711563914739
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: ca6153e7f13748f3ac2f94efd24a4912
+run_name: skillful-shrimp-428
+run_uuid: ca6153e7f13748f3ac2f94efd24a4912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

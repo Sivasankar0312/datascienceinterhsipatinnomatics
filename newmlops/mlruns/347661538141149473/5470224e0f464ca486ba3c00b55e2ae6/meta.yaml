@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/5470224e0f464ca486ba3c00b55e2ae6/artifacts
+deleted_time: 1711560921786
+end_time: null
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 5470224e0f464ca486ba3c00b55e2ae6
+run_name: omniscient-ray-568
+run_uuid: 5470224e0f464ca486ba3c00b55e2ae6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557694177
+status: 1
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/be57c87e08e34775a4fde6d6d5cfb7d0/artifacts
+deleted_time: 1711560921243
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: be57c87e08e34775a4fde6d6d5cfb7d0
+run_name: orderly-croc-478
+run_uuid: be57c87e08e34775a4fde6d6d5cfb7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

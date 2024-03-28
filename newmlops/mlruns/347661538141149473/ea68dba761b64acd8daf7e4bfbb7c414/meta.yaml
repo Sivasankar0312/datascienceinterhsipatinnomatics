@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/ea68dba761b64acd8daf7e4bfbb7c414/artifacts
+deleted_time: 1711560960665
+end_time: 1711556929838
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: ea68dba761b64acd8daf7e4bfbb7c414
+run_name: dazzling-skink-758
+run_uuid: ea68dba761b64acd8daf7e4bfbb7c414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556905558
+status: 3
+tags: []
+user_id: SIVA

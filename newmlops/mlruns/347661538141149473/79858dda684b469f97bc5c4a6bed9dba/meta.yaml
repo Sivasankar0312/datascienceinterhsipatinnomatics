@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/79858dda684b469f97bc5c4a6bed9dba/artifacts
+deleted_time: 1711560960620
+end_time: 1711556929838
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 79858dda684b469f97bc5c4a6bed9dba
+run_name: loud-mole-813
+run_uuid: 79858dda684b469f97bc5c4a6bed9dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556905558
+status: 3
+tags: []
+user_id: SIVA

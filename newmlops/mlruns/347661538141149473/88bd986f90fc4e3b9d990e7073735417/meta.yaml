@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/88bd986f90fc4e3b9d990e7073735417/artifacts
+deleted_time: 1711560921144
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 88bd986f90fc4e3b9d990e7073735417
+run_name: fortunate-fly-55
+run_uuid: 88bd986f90fc4e3b9d990e7073735417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/5d8ed4e40c5f49bc8680fef54aa6b081/artifacts
+deleted_time: 1711560960391
+end_time: 1711557410650
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 5d8ed4e40c5f49bc8680fef54aa6b081
+run_name: sneaky-ape-89
+run_uuid: 5d8ed4e40c5f49bc8680fef54aa6b081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557386868
+status: 3
+tags: []
+user_id: SIVA

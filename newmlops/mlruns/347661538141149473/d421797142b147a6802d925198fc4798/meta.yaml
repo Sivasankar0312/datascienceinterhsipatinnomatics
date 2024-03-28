@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/d421797142b147a6802d925198fc4798/artifacts
+deleted_time: 1711560921241
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: d421797142b147a6802d925198fc4798
+run_name: kindly-ant-661
+run_uuid: d421797142b147a6802d925198fc4798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

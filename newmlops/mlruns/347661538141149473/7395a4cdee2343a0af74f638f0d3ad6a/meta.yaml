@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/7395a4cdee2343a0af74f638f0d3ad6a/artifacts
+deleted_time: 1711565009551
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 7395a4cdee2343a0af74f638f0d3ad6a
+run_name: suave-deer-406
+run_uuid: 7395a4cdee2343a0af74f638f0d3ad6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

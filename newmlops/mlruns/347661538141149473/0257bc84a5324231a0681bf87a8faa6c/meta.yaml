@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/0257bc84a5324231a0681bf87a8faa6c/artifacts
+deleted_time: 1711563914311
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 0257bc84a5324231a0681bf87a8faa6c
+run_name: smiling-crab-282
+run_uuid: 0257bc84a5324231a0681bf87a8faa6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

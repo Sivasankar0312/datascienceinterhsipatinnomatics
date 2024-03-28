@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/99a9bdc6467a45038c6c7e8ef865fffa/artifacts
+deleted_time: 1711565009625
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 99a9bdc6467a45038c6c7e8ef865fffa
+run_name: bright-swan-215
+run_uuid: 99a9bdc6467a45038c6c7e8ef865fffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/24321638efe84928802ac38b94f2cb7d/artifacts
+deleted_time: 1711560960709
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 24321638efe84928802ac38b94f2cb7d
+run_name: chill-seal-100
+run_uuid: 24321638efe84928802ac38b94f2cb7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

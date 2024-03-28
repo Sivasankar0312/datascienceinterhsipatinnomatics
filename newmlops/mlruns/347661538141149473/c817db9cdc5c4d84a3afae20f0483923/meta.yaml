@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/c817db9cdc5c4d84a3afae20f0483923/artifacts
+deleted_time: 1711560920925
+end_time: 1711558640578
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: c817db9cdc5c4d84a3afae20f0483923
+run_name: bemused-squid-821
+run_uuid: c817db9cdc5c4d84a3afae20f0483923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558619028
+status: 3
+tags: []
+user_id: SIVA

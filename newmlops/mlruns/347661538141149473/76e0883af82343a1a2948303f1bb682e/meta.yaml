@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/76e0883af82343a1a2948303f1bb682e/artifacts
+deleted_time: 1711560921980
+end_time: 1711557560637
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 76e0883af82343a1a2948303f1bb682e
+run_name: bemused-flea-931
+run_uuid: 76e0883af82343a1a2948303f1bb682e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557540205
+status: 3
+tags: []
+user_id: SIVA

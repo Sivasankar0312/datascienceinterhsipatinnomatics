@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/d97e72f126444bca9d047cb818ccad25/artifacts
+deleted_time: 1711560922036
+end_time: 1711557539870
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: d97e72f126444bca9d047cb818ccad25
+run_name: indecisive-hog-28
+run_uuid: d97e72f126444bca9d047cb818ccad25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557512345
+status: 3
+tags: []
+user_id: SIVA

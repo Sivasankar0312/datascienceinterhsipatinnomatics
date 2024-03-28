@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/d180a83a82294705a23b06dda6a70d39/artifacts
+deleted_time: 1711565009879
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: d180a83a82294705a23b06dda6a70d39
+run_name: whimsical-shrew-532
+run_uuid: d180a83a82294705a23b06dda6a70d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

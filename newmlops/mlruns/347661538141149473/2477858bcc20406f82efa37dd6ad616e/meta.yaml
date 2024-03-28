@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/2477858bcc20406f82efa37dd6ad616e/artifacts
+deleted_time: 1711560921935
+end_time: 1711557560637
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 2477858bcc20406f82efa37dd6ad616e
+run_name: gregarious-bee-464
+run_uuid: 2477858bcc20406f82efa37dd6ad616e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557540205
+status: 3
+tags: []
+user_id: SIVA

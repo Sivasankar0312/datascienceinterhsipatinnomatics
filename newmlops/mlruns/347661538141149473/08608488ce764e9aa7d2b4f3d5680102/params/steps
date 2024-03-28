@@ -1,0 +1,1 @@
+[('tfidf', TfidfVectorizer()), ('svm', SVC())]

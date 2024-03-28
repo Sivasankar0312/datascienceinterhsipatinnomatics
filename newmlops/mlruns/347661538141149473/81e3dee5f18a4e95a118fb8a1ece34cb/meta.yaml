@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/81e3dee5f18a4e95a118fb8a1ece34cb/artifacts
+deleted_time: 1711560921136
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 81e3dee5f18a4e95a118fb8a1ece34cb
+run_name: legendary-wolf-820
+run_uuid: 81e3dee5f18a4e95a118fb8a1ece34cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/811326303e1e4bc890aa3b6d2d073a7c/artifacts
+deleted_time: 1711560960622
+end_time: 1711556929838
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 811326303e1e4bc890aa3b6d2d073a7c
+run_name: wise-swan-531
+run_uuid: 811326303e1e4bc890aa3b6d2d073a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556905558
+status: 3
+tags: []
+user_id: SIVA

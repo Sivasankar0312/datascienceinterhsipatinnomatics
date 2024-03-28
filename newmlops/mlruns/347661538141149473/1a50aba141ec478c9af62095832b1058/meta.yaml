@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/1a50aba141ec478c9af62095832b1058/artifacts
+deleted_time: 1711563914352
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 1a50aba141ec478c9af62095832b1058
+run_name: spiffy-ant-920
+run_uuid: 1a50aba141ec478c9af62095832b1058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

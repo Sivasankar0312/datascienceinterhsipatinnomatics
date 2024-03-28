@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/a648059325744156b8ab96c8fa41b1e5/artifacts
+deleted_time: 1711560921677
+end_time: 1711557857585
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: a648059325744156b8ab96c8fa41b1e5
+run_name: caring-goose-344
+run_uuid: a648059325744156b8ab96c8fa41b1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557825900
+status: 3
+tags: []
+user_id: SIVA

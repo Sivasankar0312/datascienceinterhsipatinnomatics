@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/99ed2d91ee974b4584a27d92b83c5898/artifacts
+deleted_time: 1711565009608
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 99ed2d91ee974b4584a27d92b83c5898
+run_name: spiffy-cow-57
+run_uuid: 99ed2d91ee974b4584a27d92b83c5898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

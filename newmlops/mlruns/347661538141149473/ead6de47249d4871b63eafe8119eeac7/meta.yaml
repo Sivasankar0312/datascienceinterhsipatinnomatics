@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/ead6de47249d4871b63eafe8119eeac7/artifacts
+deleted_time: 1711563914788
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: ead6de47249d4871b63eafe8119eeac7
+run_name: intelligent-mare-876
+run_uuid: ead6de47249d4871b63eafe8119eeac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

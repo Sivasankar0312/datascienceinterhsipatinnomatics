@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/0a20a6cb01f042f79d83a3131a0562c2/artifacts
+deleted_time: 1711560920883
+end_time: 1711558641399
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 0a20a6cb01f042f79d83a3131a0562c2
+run_name: exultant-hound-133
+run_uuid: 0a20a6cb01f042f79d83a3131a0562c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558619028
+status: 3
+tags: []
+user_id: SIVA

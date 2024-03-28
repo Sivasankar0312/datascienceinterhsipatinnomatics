@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/57278cb3bd744c248d9abbc0fc2dc275/artifacts
+deleted_time: 1711560921099
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 57278cb3bd744c248d9abbc0fc2dc275
+run_name: brawny-perch-40
+run_uuid: 57278cb3bd744c248d9abbc0fc2dc275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

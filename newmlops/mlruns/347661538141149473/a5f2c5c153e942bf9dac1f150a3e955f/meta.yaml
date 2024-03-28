@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/a5f2c5c153e942bf9dac1f150a3e955f/artifacts
+deleted_time: 1711560921635
+end_time: 1711557856863
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: a5f2c5c153e942bf9dac1f150a3e955f
+run_name: wise-crab-79
+run_uuid: a5f2c5c153e942bf9dac1f150a3e955f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557825900
+status: 3
+tags: []
+user_id: SIVA

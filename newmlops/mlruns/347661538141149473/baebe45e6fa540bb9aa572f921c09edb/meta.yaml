@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/baebe45e6fa540bb9aa572f921c09edb/artifacts
+deleted_time: 1711565009828
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: baebe45e6fa540bb9aa572f921c09edb
+run_name: zealous-asp-456
+run_uuid: baebe45e6fa540bb9aa572f921c09edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

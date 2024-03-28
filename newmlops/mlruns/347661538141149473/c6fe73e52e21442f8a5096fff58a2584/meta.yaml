@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/c6fe73e52e21442f8a5096fff58a2584/artifacts
+deleted_time: 1711563914745
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: c6fe73e52e21442f8a5096fff58a2584
+run_name: sneaky-shark-61
+run_uuid: c6fe73e52e21442f8a5096fff58a2584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

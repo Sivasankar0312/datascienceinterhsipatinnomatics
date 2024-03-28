@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/16019a00386446a1a80943bb7fa0af63/artifacts
+deleted_time: 1711565009383
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 16019a00386446a1a80943bb7fa0af63
+run_name: redolent-foal-309
+run_uuid: 16019a00386446a1a80943bb7fa0af63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

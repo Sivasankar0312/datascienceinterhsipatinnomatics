@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/1c93547de60c4b3db8a34d1423d3b15f/artifacts
+deleted_time: 1711560921861
+end_time: 1711557693939
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 1c93547de60c4b3db8a34d1423d3b15f
+run_name: adaptable-ray-411
+run_uuid: 1c93547de60c4b3db8a34d1423d3b15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557664098
+status: 3
+tags: []
+user_id: SIVA

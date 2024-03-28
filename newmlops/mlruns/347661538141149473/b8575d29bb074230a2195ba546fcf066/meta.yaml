@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/b8575d29bb074230a2195ba546fcf066/artifacts
+deleted_time: 1711560921486
+end_time: 1711558075846
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: b8575d29bb074230a2195ba546fcf066
+run_name: puzzled-perch-290
+run_uuid: b8575d29bb074230a2195ba546fcf066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558044786
+status: 3
+tags: []
+user_id: SIVA

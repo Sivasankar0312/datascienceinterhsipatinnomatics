@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/e94093d904fd41d8aab7da35a8fdcae4/artifacts
+deleted_time: 1711565009862
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: e94093d904fd41d8aab7da35a8fdcae4
+run_name: flawless-shrike-10
+run_uuid: e94093d904fd41d8aab7da35a8fdcae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

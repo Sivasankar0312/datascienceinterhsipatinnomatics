@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/e9be18792b464be6b42c241301dde253/artifacts
+deleted_time: 1711560921313
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: e9be18792b464be6b42c241301dde253
+run_name: resilient-auk-397
+run_uuid: e9be18792b464be6b42c241301dde253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

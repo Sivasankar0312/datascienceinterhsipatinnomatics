@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/8b123b23bcf9459b86ecfa3fb9b2d9fb/artifacts
+deleted_time: 1711560921128
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 8b123b23bcf9459b86ecfa3fb9b2d9fb
+run_name: unruly-vole-64
+run_uuid: 8b123b23bcf9459b86ecfa3fb9b2d9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

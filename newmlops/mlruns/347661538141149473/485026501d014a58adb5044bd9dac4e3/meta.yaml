@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/485026501d014a58adb5044bd9dac4e3/artifacts
+deleted_time: 1711563914499
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 485026501d014a58adb5044bd9dac4e3
+run_name: efficient-newt-380
+run_uuid: 485026501d014a58adb5044bd9dac4e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

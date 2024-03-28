@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/beadfa6a1ec24925b4ead8480ee7f3a4/artifacts
+deleted_time: 1711560960978
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: beadfa6a1ec24925b4ead8480ee7f3a4
+run_name: serious-seal-388
+run_uuid: beadfa6a1ec24925b4ead8480ee7f3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

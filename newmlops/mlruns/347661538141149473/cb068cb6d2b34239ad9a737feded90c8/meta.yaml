@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/cb068cb6d2b34239ad9a737feded90c8/artifacts
+deleted_time: 1711560921413
+end_time: 1711558100758
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: cb068cb6d2b34239ad9a737feded90c8
+run_name: magnificent-cow-651
+run_uuid: cb068cb6d2b34239ad9a737feded90c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558078323
+status: 3
+tags: []
+user_id: SIVA

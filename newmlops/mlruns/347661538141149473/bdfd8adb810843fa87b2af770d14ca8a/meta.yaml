@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/bdfd8adb810843fa87b2af770d14ca8a/artifacts
+deleted_time: 1711560985250
+end_time: 1711559760596
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: bdfd8adb810843fa87b2af770d14ca8a
+run_name: calm-yak-534
+run_uuid: bdfd8adb810843fa87b2af770d14ca8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711559760462
+status: 4
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/f749bd3eb2a14a758c9c7bcb5287e0ea/artifacts
+deleted_time: 1711560921620
+end_time: 1711557877118
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: f749bd3eb2a14a758c9c7bcb5287e0ea
+run_name: mysterious-hog-616
+run_uuid: f749bd3eb2a14a758c9c7bcb5287e0ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557857860
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/acc09fd9af3049fbaf2b18a19a0b8209/artifacts
+deleted_time: 1711560960638
+end_time: 1711556929838
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: acc09fd9af3049fbaf2b18a19a0b8209
+run_name: marvelous-moth-464
+run_uuid: acc09fd9af3049fbaf2b18a19a0b8209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556905558
+status: 3
+tags: []
+user_id: SIVA

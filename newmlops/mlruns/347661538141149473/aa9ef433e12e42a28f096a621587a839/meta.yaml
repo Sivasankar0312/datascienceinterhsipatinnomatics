@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/aa9ef433e12e42a28f096a621587a839/artifacts
+deleted_time: 1711560960506
+end_time: 1711557410650
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: aa9ef433e12e42a28f096a621587a839
+run_name: redolent-colt-588
+run_uuid: aa9ef433e12e42a28f096a621587a839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557386868
+status: 3
+tags: []
+user_id: SIVA

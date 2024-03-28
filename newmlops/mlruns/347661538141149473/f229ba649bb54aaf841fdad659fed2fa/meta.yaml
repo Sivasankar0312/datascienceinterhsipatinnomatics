@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/f229ba649bb54aaf841fdad659fed2fa/artifacts
+deleted_time: 1711560920963
+end_time: 1711558640578
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: f229ba649bb54aaf841fdad659fed2fa
+run_name: clean-hen-877
+run_uuid: f229ba649bb54aaf841fdad659fed2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558619028
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/b0ba9ffc22904067a41d83b9ddc2f152/artifacts
+deleted_time: 1711560921986
+end_time: 1711557560637
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: b0ba9ffc22904067a41d83b9ddc2f152
+run_name: flawless-turtle-596
+run_uuid: b0ba9ffc22904067a41d83b9ddc2f152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557540205
+status: 3
+tags: []
+user_id: SIVA

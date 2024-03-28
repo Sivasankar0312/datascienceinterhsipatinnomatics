@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/e3307d654849448abd46920571cc0478/artifacts
+deleted_time: 1711560920922
+end_time: 1711558640578
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: e3307d654849448abd46920571cc0478
+run_name: vaunted-bug-346
+run_uuid: e3307d654849448abd46920571cc0478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558619028
+status: 3
+tags: []
+user_id: SIVA

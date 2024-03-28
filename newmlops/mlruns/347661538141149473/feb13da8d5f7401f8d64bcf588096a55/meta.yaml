@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/feb13da8d5f7401f8d64bcf588096a55/artifacts
+deleted_time: 1711560921342
+end_time: 1711558543740
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: feb13da8d5f7401f8d64bcf588096a55
+run_name: nervous-wasp-953
+run_uuid: feb13da8d5f7401f8d64bcf588096a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

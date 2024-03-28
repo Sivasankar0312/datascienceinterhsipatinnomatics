@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/b9a8b03b0def4413ac1205e6ab50cf29/artifacts
+deleted_time: 1711563914692
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: b9a8b03b0def4413ac1205e6ab50cf29
+run_name: vaunted-mare-305
+run_uuid: b9a8b03b0def4413ac1205e6ab50cf29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

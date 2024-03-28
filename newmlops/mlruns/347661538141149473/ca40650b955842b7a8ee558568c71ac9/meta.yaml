@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/ca40650b955842b7a8ee558568c71ac9/artifacts
+deleted_time: 1711560961037
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: ca40650b955842b7a8ee558568c71ac9
+run_name: sedate-vole-947
+run_uuid: ca40650b955842b7a8ee558568c71ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

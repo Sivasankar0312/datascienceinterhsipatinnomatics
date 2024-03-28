@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/f9c54caf3cc643239a814948e4244760/artifacts
+deleted_time: 1711560921295
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: f9c54caf3cc643239a814948e4244760
+run_name: auspicious-dog-814
+run_uuid: f9c54caf3cc643239a814948e4244760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

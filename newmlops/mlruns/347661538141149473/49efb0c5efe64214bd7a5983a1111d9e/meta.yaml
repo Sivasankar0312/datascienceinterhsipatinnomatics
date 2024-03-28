@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/49efb0c5efe64214bd7a5983a1111d9e/artifacts
+deleted_time: 1711560921044
+end_time: 1711558536604
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 49efb0c5efe64214bd7a5983a1111d9e
+run_name: dazzling-doe-566
+run_uuid: 49efb0c5efe64214bd7a5983a1111d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558483108
+status: 3
+tags: []
+user_id: SIVA

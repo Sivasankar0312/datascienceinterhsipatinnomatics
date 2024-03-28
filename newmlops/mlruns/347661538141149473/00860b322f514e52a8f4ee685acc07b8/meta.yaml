@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/00860b322f514e52a8f4ee685acc07b8/artifacts
+deleted_time: 1711560960591
+end_time: 1711556929838
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 00860b322f514e52a8f4ee685acc07b8
+run_name: gentle-grouse-575
+run_uuid: 00860b322f514e52a8f4ee685acc07b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556905558
+status: 3
+tags: []
+user_id: SIVA

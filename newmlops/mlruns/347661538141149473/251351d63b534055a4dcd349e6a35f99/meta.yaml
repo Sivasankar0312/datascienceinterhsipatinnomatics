@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/251351d63b534055a4dcd349e6a35f99/artifacts
+deleted_time: 1711560921528
+end_time: 1711557877118
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 251351d63b534055a4dcd349e6a35f99
+run_name: fearless-midge-949
+run_uuid: 251351d63b534055a4dcd349e6a35f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557857860
+status: 3
+tags: []
+user_id: SIVA

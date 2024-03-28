@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/80668eeaa5cf43288034f15f07b6381b/artifacts
+deleted_time: 1711563914640
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 80668eeaa5cf43288034f15f07b6381b
+run_name: loud-slug-365
+run_uuid: 80668eeaa5cf43288034f15f07b6381b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

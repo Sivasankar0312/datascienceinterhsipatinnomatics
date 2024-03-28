@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/840807eff1ba4ba78fc9a1d4ec089637/artifacts
+end_time: 1711560557517
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: active
+run_id: 840807eff1ba4ba78fc9a1d4ec089637
+run_name: defiant-sow-494
+run_uuid: 840807eff1ba4ba78fc9a1d4ec089637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711560544487
+status: 3
+tags: []
+user_id: SIVA

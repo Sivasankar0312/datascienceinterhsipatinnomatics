@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/79ef8681105a4ede89ed93ff891f93fe/artifacts
+deleted_time: 1711560960491
+end_time: 1711557410650
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 79ef8681105a4ede89ed93ff891f93fe
+run_name: legendary-crow-631
+run_uuid: 79ef8681105a4ede89ed93ff891f93fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557386868
+status: 3
+tags: []
+user_id: SIVA

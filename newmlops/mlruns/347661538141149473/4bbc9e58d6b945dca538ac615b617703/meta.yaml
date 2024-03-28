@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/4bbc9e58d6b945dca538ac615b617703/artifacts
+deleted_time: 1711563914470
+end_time: 1711563341371
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 4bbc9e58d6b945dca538ac615b617703
+run_name: hilarious-asp-832
+run_uuid: 4bbc9e58d6b945dca538ac615b617703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

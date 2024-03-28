@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/885067c634874eeabc8f77d13438897b/artifacts
+deleted_time: 1711560960571
+end_time: 1711557311890
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 885067c634874eeabc8f77d13438897b
+run_name: luxuriant-squid-779
+run_uuid: 885067c634874eeabc8f77d13438897b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557286521
+status: 3
+tags: []
+user_id: SIVA

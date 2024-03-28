@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/9f9315c3f7114ecaaa15d27a6319787e/artifacts
+deleted_time: 1711560921384
+end_time: 1711558100758
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 9f9315c3f7114ecaaa15d27a6319787e
+run_name: judicious-pug-144
+run_uuid: 9f9315c3f7114ecaaa15d27a6319787e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558078323
+status: 3
+tags: []
+user_id: SIVA

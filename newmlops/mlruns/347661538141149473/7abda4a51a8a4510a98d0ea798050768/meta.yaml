@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/7abda4a51a8a4510a98d0ea798050768/artifacts
+deleted_time: 1711560921783
+end_time: null
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 7abda4a51a8a4510a98d0ea798050768
+run_name: sassy-koi-305
+run_uuid: 7abda4a51a8a4510a98d0ea798050768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557694177
+status: 1
+tags: []
+user_id: SIVA

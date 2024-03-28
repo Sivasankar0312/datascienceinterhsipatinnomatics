@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/77ae5231b1a64567a505530f9e2f9a26/artifacts
+deleted_time: 1711560960837
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 77ae5231b1a64567a505530f9e2f9a26
+run_name: dazzling-squid-420
+run_uuid: 77ae5231b1a64567a505530f9e2f9a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

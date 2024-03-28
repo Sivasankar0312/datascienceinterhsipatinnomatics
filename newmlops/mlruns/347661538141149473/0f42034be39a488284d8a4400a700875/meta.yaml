@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/0f42034be39a488284d8a4400a700875/artifacts
+deleted_time: 1711560922038
+end_time: 1711557539145
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 0f42034be39a488284d8a4400a700875
+run_name: salty-cod-830
+run_uuid: 0f42034be39a488284d8a4400a700875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557512345
+status: 3
+tags: []
+user_id: SIVA

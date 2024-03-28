@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/8c7d847b815b463b8f1ced7e932f00b0/artifacts
+deleted_time: 1711560920887
+end_time: 1711558640578
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 8c7d847b815b463b8f1ced7e932f00b0
+run_name: bold-steed-967
+run_uuid: 8c7d847b815b463b8f1ced7e932f00b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558619028
+status: 3
+tags: []
+user_id: SIVA

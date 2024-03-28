@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/83fa96f3dc774f8ea31c899dd0fc3f0b/artifacts
+deleted_time: 1711560922017
+end_time: null
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 83fa96f3dc774f8ea31c899dd0fc3f0b
+run_name: overjoyed-hen-307
+run_uuid: 83fa96f3dc774f8ea31c899dd0fc3f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557540205
+status: 1
+tags: []
+user_id: SIVA

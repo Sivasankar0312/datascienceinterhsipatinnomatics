@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/1d96c165da8c4ea4846336883f857139/artifacts
+deleted_time: 1711560960339
+end_time: 1711557430301
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 1d96c165da8c4ea4846336883f857139
+run_name: able-perch-367
+run_uuid: 1d96c165da8c4ea4846336883f857139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557411540
+status: 3
+tags: []
+user_id: SIVA

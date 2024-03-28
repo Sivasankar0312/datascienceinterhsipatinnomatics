@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/2c612a0423b44b7ba442f22057f375f8/artifacts
+deleted_time: 1711560960518
+end_time: 1711557312486
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 2c612a0423b44b7ba442f22057f375f8
+run_name: debonair-carp-427
+run_uuid: 2c612a0423b44b7ba442f22057f375f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557286521
+status: 3
+tags: []
+user_id: SIVA

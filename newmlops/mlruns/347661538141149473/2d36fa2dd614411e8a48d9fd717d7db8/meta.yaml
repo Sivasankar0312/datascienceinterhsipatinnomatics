@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/2d36fa2dd614411e8a48d9fd717d7db8/artifacts
+deleted_time: 1711560960543
+end_time: 1711557311890
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 2d36fa2dd614411e8a48d9fd717d7db8
+run_name: silent-lynx-204
+run_uuid: 2d36fa2dd614411e8a48d9fd717d7db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557286521
+status: 3
+tags: []
+user_id: SIVA

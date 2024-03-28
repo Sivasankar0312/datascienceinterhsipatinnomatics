@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/c8d7e284d9bc464bb9d7962383bd6c2d/artifacts
+deleted_time: 1711560921878
+end_time: 1711557693173
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: c8d7e284d9bc464bb9d7962383bd6c2d
+run_name: upbeat-yak-685
+run_uuid: c8d7e284d9bc464bb9d7962383bd6c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557664098
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/42db704670df4ca6879f7c7af50f79b8/artifacts
+end_time: 1711559792376
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: active
+run_id: 42db704670df4ca6879f7c7af50f79b8
+run_name: receptive-donkey-922
+run_uuid: 42db704670df4ca6879f7c7af50f79b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711559784149
+status: 3
+tags: []
+user_id: SIVA

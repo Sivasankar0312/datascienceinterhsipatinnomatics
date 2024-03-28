@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/c8185499a55b4fd3a1f42a0855913419/artifacts
+deleted_time: 1711565009796
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: c8185499a55b4fd3a1f42a0855913419
+run_name: merciful-flea-669
+run_uuid: c8185499a55b4fd3a1f42a0855913419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

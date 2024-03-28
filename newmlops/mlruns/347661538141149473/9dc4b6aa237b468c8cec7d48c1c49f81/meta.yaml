@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/9dc4b6aa237b468c8cec7d48c1c49f81/artifacts
+deleted_time: 1711560960911
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 9dc4b6aa237b468c8cec7d48c1c49f81
+run_name: resilient-fawn-45
+run_uuid: 9dc4b6aa237b468c8cec7d48c1c49f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

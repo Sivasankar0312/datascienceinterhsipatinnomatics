@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/446a039cd9ad45bc8940be2b3e721809/artifacts
+deleted_time: 1711563914427
+end_time: 1711563335987
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 446a039cd9ad45bc8940be2b3e721809
+run_name: youthful-grub-360
+run_uuid: 446a039cd9ad45bc8940be2b3e721809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711563289167
+status: 3
+tags: []
+user_id: SIVA

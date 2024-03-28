@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/afda90782bd7499cac9b408954e6e79d/artifacts
+deleted_time: 1711565009772
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: afda90782bd7499cac9b408954e6e79d
+run_name: thundering-snail-416
+run_uuid: afda90782bd7499cac9b408954e6e79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

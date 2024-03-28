@@ -1,0 +1,1 @@
+{'clf': MultinomialNB(alpha=0.1), 'clf__alpha': 0.1, 'tfidf__ngram_range': (1, 2)}

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/203be2ae232c4972aeeca37792a64617/artifacts
+deleted_time: 1711560921354
+end_time: null
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 203be2ae232c4972aeeca37792a64617
+run_name: stylish-flea-407
+run_uuid: 203be2ae232c4972aeeca37792a64617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558078323
+status: 1
+tags: []
+user_id: SIVA

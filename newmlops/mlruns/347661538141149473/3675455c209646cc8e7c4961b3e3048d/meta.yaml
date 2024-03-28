@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/3675455c209646cc8e7c4961b3e3048d/artifacts
+deleted_time: 1711560960544
+end_time: 1711557311890
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 3675455c209646cc8e7c4961b3e3048d
+run_name: amazing-fowl-174
+run_uuid: 3675455c209646cc8e7c4961b3e3048d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557286521
+status: 3
+tags: []
+user_id: SIVA

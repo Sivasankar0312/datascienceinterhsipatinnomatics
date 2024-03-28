@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/b4bf1c597117435a86e6b9cb710c03f2/artifacts
+deleted_time: 1711560960971
+end_time: 1711556713778
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: b4bf1c597117435a86e6b9cb710c03f2
+run_name: funny-worm-990
+run_uuid: b4bf1c597117435a86e6b9cb710c03f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556667116
+status: 3
+tags: []
+user_id: SIVA

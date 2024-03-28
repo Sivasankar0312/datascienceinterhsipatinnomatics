@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/37def8f68b454802b04f5029790a3d3a/artifacts
+deleted_time: 1711565009511
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 37def8f68b454802b04f5029790a3d3a
+run_name: luxuriant-foal-581
+run_uuid: 37def8f68b454802b04f5029790a3d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

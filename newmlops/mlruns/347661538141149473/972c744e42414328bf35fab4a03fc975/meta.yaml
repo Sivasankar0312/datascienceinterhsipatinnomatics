@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/972c744e42414328bf35fab4a03fc975/artifacts
+deleted_time: 1711560921471
+end_time: 1711558075846
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 972c744e42414328bf35fab4a03fc975
+run_name: nervous-duck-679
+run_uuid: 972c744e42414328bf35fab4a03fc975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711558044786
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/09bf9974b69f48c2a7d8c7d9d690c2b1/artifacts
+deleted_time: 1711560921906
+end_time: 1711557560637
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 09bf9974b69f48c2a7d8c7d9d690c2b1
+run_name: nebulous-ram-199
+run_uuid: 09bf9974b69f48c2a7d8c7d9d690c2b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711557540205
+status: 3
+tags: []
+user_id: SIVA

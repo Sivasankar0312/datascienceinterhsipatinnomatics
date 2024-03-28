@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/aa04429519354affa257010609e202b1/artifacts
+deleted_time: 1711565009746
+end_time: 1711564393627
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: aa04429519354affa257010609e202b1
+run_name: thundering-doe-166
+run_uuid: aa04429519354affa257010609e202b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711564199012
+status: 3
+tags: []
+user_id: SIVA

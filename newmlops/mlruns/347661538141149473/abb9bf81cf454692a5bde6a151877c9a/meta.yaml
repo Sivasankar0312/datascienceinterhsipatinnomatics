@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/abb9bf81cf454692a5bde6a151877c9a/artifacts
+end_time: 1711559818550
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: active
+run_id: abb9bf81cf454692a5bde6a151877c9a
+run_name: kindly-squid-594
+run_uuid: abb9bf81cf454692a5bde6a151877c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711559809641
+status: 3
+tags: []
+user_id: SIVA

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sspon/Desktop/newmlops/mlruns/347661538141149473/868b9e973b9446649b687f126eef69ae/artifacts
+deleted_time: 1711560960628
+end_time: 1711556929838
+entry_point_name: ''
+experiment_id: '347661538141149473'
+lifecycle_stage: deleted
+run_id: 868b9e973b9446649b687f126eef69ae
+run_name: fortunate-tern-838
+run_uuid: 868b9e973b9446649b687f126eef69ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711556905558
+status: 3
+tags: []
+user_id: SIVA
